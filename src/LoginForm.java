@@ -23,7 +23,6 @@ public class LoginForm extends JFrame {
     }
 
     private void initComponents() {
-        System.out.println("Ð¡ÐÞ¸Ä");
         // JFormDesigner - Component initialization - DO NOT MODIFY  //GEN-BEGIN:initComponents
         label1 = new JLabel();
 
